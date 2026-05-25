@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "learnwithagents": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@learnwithagents/mcp-server"
+      ]
+    }
+  }
+}

@@ -8,3 +8,4 @@ This folder contains my Code Kenya pre-course work.
 - Creating files and folders
 - Using the terminal
 - Starting to use Git and GitHub
+- Making a branch and reading a Git diff
