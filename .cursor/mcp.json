@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "learnwithagents": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@learnwithagents/mcp-server"
+      ]
+    }
+  }
+}
